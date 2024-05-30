@@ -1,1 +1,1 @@
-[{"Task":"Test todo","Status":false,"CreatedAt":"2024-05-30T13:06:41.8436905+05:30","CompletedAt":"0001-01-01T00:00:00Z"}]
+[{"Task":"Homework","Status":true,"CreatedAt":"2024-05-30T13:44:53.2584683+05:30","CompletedAt":"2024-05-30T15:52:17.4156817+05:30"},{"Task":"Test todo","Status":false,"CreatedAt":"2024-05-30T13:44:58.2795999+05:30","CompletedAt":"0001-01-01T00:00:00Z"},{"Task":"Push the project to github","Status":false,"CreatedAt":"2024-05-30T15:51:55.2180563+05:30","CompletedAt":"0001-01-01T00:00:00Z"}]
